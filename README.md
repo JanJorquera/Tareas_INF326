@@ -1,2 +1,4 @@
 # Tareas_INF326
 Tareas del ramo Arquitectura de Software - INF326
+
+Video 1: [Enlace video1]https://usmcl-my.sharepoint.com/:v:/g/personal/jan_jorquera_usm_cl/EeJfzmAr7Z9EjKfhiZgGMDgB8ofAl9dJOW8pp5EYXcxIBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BEnrcP
