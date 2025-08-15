@@ -1,0 +1,23 @@
+services:
+  service_02:
+    build: .
+    ports:
+      - "5001:80"
+    volumes:
+      - ./app:/code/app
+    depends_on:
+      - service_02_mongodb
+  service_02_mongodb:
+    image: mongo:5.0
+    volumes:
+      - service_02_mongodb_container:/data/db
+    logging:
+        driver: none
+
+volumes:
+  service_02_mongodb_container:
+
+networks:
+  default:
+    name: Tarea1_INF326
+    external: true

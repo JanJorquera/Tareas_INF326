@@ -1,0 +1,18 @@
+Tarea1 Curso INF326 - Arquitectura de Software
+
+Estudiante:
+Jan Jorquera Contreras.
+202104567-8
+
+Instrucciones:
+Para probar la tarea se debe ejecutar el siguiente comando: docker network create Tarea1_INF326
+docker-compose up en ./logging, docker-compose up en ./service_01, docker-compose up en ./service_02
+docker-compose up en ./data
+finalmente hacer ctrl+c en cada terminal y docker-compose down --volumes
+
+OBS: 
+
+1.- El código fue tomado como base del material del curso, realizando modificaciones como sugirió el profesor. De forma concreta, se añadieron endpoints y se añadió
+un atributo (injured) en la clase Jugador.
+2.- El video se encuentra como un enlace a un archivo de OneDrive, por motivos de tamaño del archivo no pude subir el archivo. Enlace: 
+https://usmcl-my.sharepoint.com/:v:/g/personal/jan_jorquera_usm_cl/EeJfzmAr7Z9EjKfhiZgGMDgB8ofAl9dJOW8pp5EYXcxIBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BEnrcP

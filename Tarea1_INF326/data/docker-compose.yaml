@@ -1,0 +1,10 @@
+services:
+  dataservice_01:
+    build:
+      context: .
+      dockerfile: dataservice
+
+networks:
+  default:
+    name: Tarea1_INF326
+    external: true
